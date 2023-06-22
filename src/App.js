@@ -1,9 +1,9 @@
-import logo from './logo.svg'
+
 import './App.scss'
 import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
 import Home from './components/Home'
-import Sidebar from './components/sidebar'
+
 import About from './components/about'
 import Contact from './components/contact'
 function App() {
